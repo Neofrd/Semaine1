@@ -15,4 +15,8 @@ J'ai créé ma première société en 2013
 
 # Pourquoi je suis sur Simplonline
 Je me suis inscrit à cette formation pour découvrir l'offre de Simplon 
+<<<<<<< HEAD
 et pour apprendre un véritable langage de programmation
+=======
+et pour apprendre un véritable langage de programmation
+>>>>>>> 0e20b313534f41de1ae2951dadf07e6072bd1a40
